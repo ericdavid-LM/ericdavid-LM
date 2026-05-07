@@ -1,7 +1,7 @@
 # 🧑‍💻 Eric David!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=38BCF7&center=true&vCenter=true&width=800&lines=Desenvolvedor+FullStack+%2F+Tech+Leader;Salesforce+Developer;React+%7C+Java+%7C+Apex;Apaixonado+por+tecnologia+e+música" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=38BCF7&center=true&vCenter=true&width=800&lines=FullStack+Developer+%2F+Tech+Leader;Salesforce+Developer;React+%7C+Java+%7C+Apex;Passionate+about+technology+and+music" />
 </p>
 
 <p align="center">
@@ -14,9 +14,29 @@
   </a>
 </p>
 
+<table align="center">
+<tr>
+<td>
+<img width="70" src="https://github.com/user-attachments/assets/af516f3d-b481-48d8-9038-5796d25dee22"/>
+</td>
+
+<td>
+<img width="70" src="https://github.com/user-attachments/assets/7c95710e-8ded-4e19-a1d2-3c23707c75b6"/>
+</td>
+
+<td>
+<img width="70" src="https://github.com/user-attachments/assets/a69907ab-f51a-4a10-a87d-e2c27616649b"/>
+</td>
+
+<td>
+<img width="70" src="https://github.com/user-attachments/assets/3528d42f-9e5b-4b45-a042-4c6deeeb3cc7"/>
+</td>
+</tr>
+</table>
+
 ---
 
-# 👨‍💻 Sobre mim
+# 👨‍💻 About me
 
 <img 
 align="right"
