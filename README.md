@@ -44,17 +44,17 @@ class AboutMe extends SoftwareDeveloper {
 }
 ```
 
-🎓 Formado em Ciência da Computação  
-💼 Atualmente trabalhando com Salesforce  
-🚀 Focado em desenvolvimento FullStack  
-📚 Planejando iniciar uma pós-graduação  
-🏋️ Apaixonado por atividades físicas  
+🎓 Computer Science Graduate
+💼 Currently working with Salesforce
+🚀 Focused on FullStack Development
+📚 Planning to start a postgraduate degree
+🏋️ Passionate about fitness and healthy living
 
 <br clear="right"/>
 
 ---
 
-# 🚀 Tecnologias
+# 🚀 Tecnologies
 
 <p align="center">
 <img alt="Salesforce" title="Salesforce" width="48px" src="https://icon.icepanel.io/Technology/svg/Salesforce.svg"/>
@@ -71,7 +71,7 @@ class AboutMe extends SoftwareDeveloper {
 
 ---
 
-# 🎮 Zona Dev
+# 🎮 Dev Zone
 
 <div align="center">
 
@@ -143,7 +143,8 @@ public class PokemonOpinion {
 
 ---
 
-# 📊 Estatísticas
+# 📊 Statistics
+
 
 <p align="center">
 
@@ -170,13 +171,14 @@ alt="GitHub Streak"
 
 ---
 
-# 🐍 Contribuições
+# 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
-# 📈 Atividade
+# 📈 Activity
+
 
 <p align="center">
   <img 
@@ -184,7 +186,7 @@ alt="GitHub Streak"
   />
 </p>
 
-# 🏆 Conquistas
+# 🏆 Achievements
 
 <p align="center">
   <img 
@@ -195,5 +197,5 @@ alt="GitHub Streak"
 ---
 
 <p align="center">
-✨ “Transformando café em código desde sempre.” ✨
+✨✨ Turning bugs into features since forever. ✨✨
 </p>
